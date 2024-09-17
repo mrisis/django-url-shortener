@@ -16,7 +16,7 @@ A professional and flexible URL shortener utility for Django projects.
 To install the package, you can simply use `pip`:
 
 ```bash
-pip install django-url-shortener
+pip install django-link-url-shortener
 ```
 
 # Usage :
